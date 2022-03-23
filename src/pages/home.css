@@ -1,0 +1,39 @@
+.home_flex {
+  display: grid;
+  grid-template-columns: 1fr 400px;
+  gap: 15px;
+  justify-content: center;
+  grid-auto-flow: dense;
+}
+.home_sub {
+  margin-top: 16px;
+}
+.center {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 18px;
+}
+.option {
+  background: #ffffff;
+  margin-top: 10px;
+}
+.latest {
+  background: #f1efef;
+}
+.latest h4 {
+    text-align: center;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    color: #4f6192;
+}
+.paginate {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media screen and (max-width: 700px) {
+  .home_flex {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}

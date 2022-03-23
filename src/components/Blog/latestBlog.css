@@ -1,0 +1,19 @@
+.LatestBlog {
+    margin-top: 10px;
+}
+.latest_blog {
+    display: flex;
+    gap: 15px;
+    background: #ffffff;
+}
+.latest_blog img {
+  width: 100px;
+  height: 70px;
+  max-width: 100%;
+  object-fit: cover;
+  justify-self: center;
+  margin: 5px;
+}
+.latest_title {
+    padding-top: 10px;
+}

@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "j'ai mis du temps à trouver ma voie. Je suis tombé",
+      "description": "Il n’y a pas de formule magique, la première chose à faire est d’adopter le bon état d’esprits. C’est-à-dire qu’il faut produire du code dont on soit fière et qu’on veut maintenir dans la durée. On ne doit pas être dans l’idée de se débarrasser de son code au plus vite en visant uniquement la livraison. Ensuite, il faut avoir en tête les quatre points évoqués précédemment à chaque nouvelle ligne de code.\n\nIl faut également se dire qu’il est quasiment impossible de produire le meilleur code possible du premier coup. De fait, au lieu de ne vouloir écrire que du code parfait, il faut accepter que son premier jet ne soit pas le meilleur. C’est avec le temps et les reprises successives du code qu’on approche petit à petit de la perfection. Un code source, c’est un peu comme une œuvre d’art, pour celui qui l’écrit, il n’est jamais terminé. Afin d’avoir cette vision itérative, des pratiques comme le TDD sont aujourd’hui indispensables.\n\nIl existe bon nombre d’indicateurs afin d’évaluer le code qu’on produit. Ils peuvent être utilisés a posteriori via des outils de qualité de code ou en live dans votre IDE. Vous pouvez aller regarder un outil comme SonarQube par exemple. Même s’il existe beaucoup de configuration par défaut et que certaines peuvent suffire dans bien des projets, il ne faut pas hésiter à configurer ces outils en fonction de vos standards de qualité. Un dernier point important qu’il faut mettre en avant et c’est le travail d’équipe. Il n’existe pas, à mon avis, de meilleurs moyens pour produire du bon code que de travailler à plusieurs. Le pair programming permet de résoudre les questions autour de la lisibilité de votre code. Il permet également de prendre du recul sur le code et d’avoir un regard différent ce qu’on implémente. Cela offre également l’opportunité de communiquer en temps réel avec un autre développeur qui est aligné sur les mêmes objectifs. Une autre méthode permettant d’impliquer d’autres personnes sur ses réalisations est la revue de code. Mais elle ne permet d’avoir des retours que lorsqu’on décide de les demander. Cela peut arriver tard et causer pas mal de frustration si on se retrouve avec beaucoup de retour qui conduise à des changements. Elle reste néanmoins un bon complément pour aller chercher un regard extérieur et s’assurer de l’homogénéité des différentes contributions d’un projet. ",
+      "category": "travel",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1647970378/pfsuistf8ruhc3cif0hm.jpg",
+      "date": "03/22/2022",
+      "id": 1
+    },
+    {
+      "title": "Tes2",
+      "description": "j'ai mis du temps à trouver ma voie. Je suis tombé dans le développement en septembre 2020, je n'ai jamais arrêté depuis..\n\nAujourd'hui, je suis développeur web junior avec une appétence de frontend et le backend. J’accorde beaucoup d’attention à la valeur apportée aux utilisateurs finaux. On ne réalise pas d'application que pour se faire plaisir, après tout.",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1647968610/z1emyscl9dj4lipxnlxa.jpg",
+      "date": "03/22/2022",
+      "id": 2
+    },
+    {
+      "title": "Trav",
+      "description": "j'ai mis du temps à trouver ma voie. Je suis tombé dans le développement en septembre 2020, je n'ai jamais arrêté depuis.. Aujourd'hui, je suis développeur web junior avec une appétence de frontend et le backend. J’accorde beaucoup d’attention à la valeur apportée aux utilisateurs finaux. On ne réalise pas d'application que pour se faire plaisir, après tout.",
+      "category": "travel",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1647971811/nmil3rfb2u2xck1xyutf.png",
+      "date": "03/22/2022",
+      "id": 3
+    },
+    {
+      "title": "Four",
+      "description": "j'ai mis du temps à trouver ma voie. Je suis tombé dans le développement en septembre 2020, je n'ai jamais arrêté depuis.. Aujourd'hui, je suis développeur web junior avec une appétence de frontend et le backend. J’accorde beaucoup d’attention à la valeur apportée aux utilisateurs finaux. On ne réalise pas d'application que pour se faire plaisir, après tout.",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1647987436/sklzw6u7civslgi3bqyw.png",
+      "date": "03/22/2022",
+      "id": 4
+    },
+    {
+      "title": "ddfsfds",
+      "description": "j'ai mis du temps à trouver ma voie. Je suis tombé dans le développement en septembre 2020, je n'ai jamais arrêté depuis.. Aujourd'hui, je suis développeur web junior avec une appétence de frontend et le backend. J’accorde beaucoup d’attention à la valeur apportée aux utilisateurs finaux. On ne réalise pas d'application que pour se faire plaisir, après tout.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1647990858/q1shu5dorzlbwnntieeu.png",
+      "date": "03/23/2022",
+      "id": 5
+    },
+    {
+      "title": "sdssf",
+      "description": "j'ai mis du temps à trouver ma voie. Je suis tombé dans le développement en septembre 2020, je n'ai jamais arrêté depuis.. Aujourd'hui, je suis développeur web junior avec une appétence de frontend et le backend. J’accorde beaucoup d’attention à la valeur apportée aux utilisateurs finaux. On ne réalise pas d'application que pour se faire plaisir, après tout.",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1647990878/fjxrigpjzmfjwvwjxqzo.jpg",
+      "date": "03/23/2022",
+      "id": 6
+    }
+  ]
+}

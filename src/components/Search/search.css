@@ -1,0 +1,14 @@
+.d-flex {
+    display: flex;
+    gap: 1px;
+}
+.d-flex button {
+    background: #4f6192;
+    color: #ffffff;
+    font-weight: 600;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+.d-flex button:hover {
+    background: #0eba16;
+}

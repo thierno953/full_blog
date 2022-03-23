@@ -1,0 +1,25 @@
+.dflex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 15px;
+}
+.dflex li {
+    font-size: 14px;
+    font-weight: 500;
+}
+.dflex button {
+   background: #4f6192;
+   color: #ffffff;
+   font-size: 14px;
+   font-weight: 600;
+   border: none;
+   outline: none;
+   padding: 5px 10px;
+   border-radius: 5px;
+   cursor: pointer;
+}
+.dflex button:hover {
+    background: #0eba16;
+}
