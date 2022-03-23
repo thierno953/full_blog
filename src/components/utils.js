@@ -1,1 +1,1 @@
-export const JSON_API = 'http://localhost:4000'
+export const JSON_API = 'https://jsonserver-project.herokuapp.com'
