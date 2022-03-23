@@ -8,6 +8,7 @@ import Home from './pages/Home';
 import AddEditBlog from './pages/AddEditBlog';
 import NotFound from './components/NotFound';
 import Blog from './components/Blog/Blog';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route path="/blog/:id" element={<Blog />} />
           <Route path='*' element={<NotFound />} />
         </Routes>
+        <Footer />
     </BrowserRouter>
   );
 }
