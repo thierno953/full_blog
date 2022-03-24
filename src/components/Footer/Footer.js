@@ -8,20 +8,22 @@ const Footer = () => {
         <div className="container">
           <div className="grid">
             <div className="footer_1">
-              <h3>A PROPOS</h3>
-              <p>Développeur Web Junior</p>
+              <h3>About Us</h3>
+              <p>Juinior Web Developer</p>
             </div>
             <div>
               <h3>NAVIGATION</h3>
-              <p>Accueil</p>
-              <p>A Propos</p>
-              <p>Articles</p>
+              <p>Home</p>
+              <p>About</p>
+              <p>Blog</p>
               <p>Contact Us</p>
             </div>
             <div>
-              <h3>DEVELOPPEUR WEB JUNIOR</h3>
-              <p>Front End</p>
-              <p>Back End</p>
+              <h3>Language & Framework</h3>
+              <p>Html</p>
+              <p>Css</p>
+              <p>JavaScript</p>
+              <p>React</p>
             </div>
          
           </div>

@@ -18,7 +18,7 @@ const Home = () => {
   const [totalBlog, setTotalBlog] = useState(null);
   const [pageLimit] = useState(5);
 
-  const options = ["travel", "Fashion", "Fitness", "Sports", "Food", "Tech"];
+  const options = ["HTML-CSS", "JavaScript", "SQL-Databases", "Web-Development", "WordPress", "Computer-Science"];
 
   useEffect(() => {
     loadBlogsData(0, 5, 0);

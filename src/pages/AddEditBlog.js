@@ -13,7 +13,7 @@ const initialState = {
   imageUrl: "",
 };
 
-const options = ["travel", "Fashion", "Fitness", "Sports", "Food", "Tech"];
+const options = ["HTML-CSS", "JavaScript", "SQL-Databases", "Web-Development", "WordPress", "Computer-Science"];
 
 /*eslint-disable*/
 

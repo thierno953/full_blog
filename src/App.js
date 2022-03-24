@@ -9,6 +9,8 @@ import AddEditBlog from './pages/AddEditBlog';
 import NotFound from './components/NotFound';
 import Blog from './components/Blog/Blog';
 import Footer from './components/Footer/Footer';
+import Contact from './components/Contact/Contact';
+import About from './components/About/About';
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
           <Route path="/addBlog" element={<AddEditBlog />} />
           <Route path="/editBlog/:id" element={<AddEditBlog />} />
           <Route path="/blog/:id" element={<Blog />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
           <Route path='*' element={<NotFound />} />
         </Routes>
         <Footer />

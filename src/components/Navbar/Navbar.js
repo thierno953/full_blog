@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./navbar.css";
-// import Logo from "../../assets/logo_1-new.png";
 
 const Navbar = () => {
   const [click, setClick] = useState(false);
@@ -20,20 +19,20 @@ const Navbar = () => {
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li>
               <Link to="/" onClick={closeMobileMenu}>
-                Accueil
+                Home
               </Link>
             </li>
             <li>
-              <Link to="/propos" onClick={closeMobileMenu}>
-                A propos
+              <Link to="/about" onClick={closeMobileMenu}>
+                About
               </Link>
             </li>
             
-            <li>
-              <Link to="/addBlog" onClick={closeMobileMenu}>
+          <li>
+              <Link to="/addBlog" onClick={closeMobileMenu} className="none">
                 Blog
               </Link>
-            </li>
+            </li> 
           </ul>
 
           <div className="login-area flex">

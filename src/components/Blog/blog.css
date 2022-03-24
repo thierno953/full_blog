@@ -6,6 +6,7 @@
     margin-top: 15px;
     align-items: center;
     justify-content: center;
+    min-height: 60vh;
 }
 
 .blog_f img {

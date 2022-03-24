@@ -22,7 +22,7 @@ const Blogs = ({
             <p>
               {excerpt(description)} <Link to={`/blog/${id}`}>Read More</Link>
             </p>
-            <div className="icon">
+          {/*   <div className="icon">
               <Link to={`/editBlog/${id}`}>
                 <i className="fa-solid fa-pen-to-square"></i>
               </Link>
@@ -30,7 +30,7 @@ const Blogs = ({
                 className="fa-solid fa-trash"
                 onClick={() => handleDelete(id)}
               ></i>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

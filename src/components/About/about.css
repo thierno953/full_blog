@@ -1,0 +1,11 @@
+.container_about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 65vh;
+}
+.container_about p {
+    max-width: 800px;
+    margin: auto;
+    font-size: 14px;
+}

@@ -27,6 +27,7 @@
 .blog_info h4 {
     font-size: 14px;
     text-transform: uppercase;
+    padding-bottom: 18px;
 }
 .blog_info h5 {
     font-size: 14px;
@@ -36,7 +37,7 @@
 }
 .blog_info p {
     font-size: 14px;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 .blog_info .icon {
     display: flex;

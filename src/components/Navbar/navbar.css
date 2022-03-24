@@ -16,13 +16,16 @@ nav ul li {
 
 nav ul li a {
   color: #ffffff;
-  font-weight: 100;
+  font-weight: 400;
   font-size: 15px;
   letter-spacing: 1px;
   transition: all 0.2s ease-out;
   opacity: 0.8;
 }
 
+.none {
+  display: none;
+}
 .nav-links-mobile {
   display: none;
 }
@@ -38,7 +41,7 @@ nav i {
 }
 
 .login-area a {
-  font-weight: 100;
+  font-weight: 400;
   opacity: 0.8;
   font-size: 13px;
   color: #fff;
