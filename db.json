@@ -1,3 +1,52 @@
 {
-  "blogs": []
+  "blogs": [
+    {
+      "title": "PERSONAL STYLE",
+      "description": "Producing quality work is a priority for me. Thorough, precise and structured, strives to avoid errors in my work. My diligent attitude is the result of the importance I place on the point of view of others. I listen to ideas, suggestions and comments. It is therefore easy to work with me, to give space to others, to lend my support when needed and to complete tasks with thoroughness. In my relationships with others, I am humble and I do not impose my authority. I go straight to the point, avoid exaggerating. I adapt my speech to my audience, and is warm. In my style of work I structure my work, I plan and follow the procedures. I tackle one task at a time to avoid losing my concentration at work. I am meticulous, check my work and make few mistakes. In my emotional management I ensure that my decisions are reliable by evaluating the results. I am responsive, very energetic and have a sense of urgency. I radiate enthusiasm and see the bright side of things.",
+      "category": "STYLE",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1648223427/j2vvu1qqdddsboqo65kn.jpg",
+      "date": "03/25/2022",
+      "id": 1
+    },
+    {
+      "title": " I COULD BE MORE EFFECTIVE",
+      "description": "I would benefit from tackling small tasks from the start, rather than always sticking to the original plan. I could take on more responsibilities, including considering topics outside of my main field. I might be more efficient if I focused on the essentials, rather than trying to capture everything.",
+      "category": "EFFECTIVE",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1648223463/xk6hirjbxz86kxmsjnif.jpg",
+      "date": "03/25/2022",
+      "id": 2
+    },
+    {
+      "title": "MY WAY OF MANAGING MY ENERGY",
+      "description": "My main drivers favor stability. I channel my energy into finding my bearings and establishing reliable benchmarks. I like being able to establish a regular rhythm for my daily activity at work. I avoid making decisions that could put me in a position of uncertainty",
+      "category": "ENERGY",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1648223509/gywmngjvkjvndlawj1hi.jpg",
+      "date": "03/25/2022",
+      "id": 3
+    },
+    {
+      "title": " PROBLEMS I CAN HANDLE",
+      "description": "Brilliant from an intellectual point of view, I tend to easily adapt concepts that were initially foreign. I am able to understand new or complex subjects without having to see them in practice. This means I can develop his skills by researching and reading about a wide range of topics. I need to be intellectually stimulated by my work, otherwise I risk getting bored quickly. Cautious in my approach, I prefer to rely on proven strategies. I tend to observe and adapt knowledge that has proven itself and in which I have complete confidence. In this sense, it is easier to learn from the information provided.",
+      "category": "PROBLEMS",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1648223536/lozvk6fogymonglmdeyf.jpg",
+      "date": "03/25/2022",
+      "id": 4
+    },
+    {
+      "title": "Know how to stop",
+      "description": "There are times when you have to know how to embark on projects, take your courage in both hands, your motivation and take the plunge. This is not obvious. But it's even less so when you have to make the decision to stop.\n\nKnowing how to say stop is however essential in order to protect yourself. There are projects where stubbornness costs much more energy than it brings us. In the end, the balance sheet is negative and it is our health that will suffer. Please note that the return on investment is not always financial. Much more can be found in satisfaction, accomplishment and recognition than in money. However, it has to be worth the effort.",
+      "category": "STOP",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1648223697/b3fjjm9lwsxe0qtl2jlh.jpg",
+      "date": "03/25/2022",
+      "id": 5
+    },
+    {
+      "title": "Trust",
+      "description": "Confidence is built by confronting others. Do not hesitate to meet qualified and above all recognized people in the industry to discuss. You have to participate in team projects. You have to show your code and ask for reviews to get concrete feedback on our practices. You have to do pair programming with developers more competent than us to learn live. In summary, we must expose ourselves and welcome feedback by taking everything that will move us forward.",
+      "category": "STYLE",
+      "imageUrl": "http://res.cloudinary.com/barrysto/image/upload/v1648223873/bzeniiwoc9njymdck8do.jpg",
+      "date": "03/25/2022",
+      "id": 6
+    }
+  ]
 }
