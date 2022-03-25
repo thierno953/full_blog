@@ -5,6 +5,8 @@ const About = () => {
   return (
     <div className="container">
     <div className="container_about">
+      <div className="about">
+      <h3>About</h3>
       <p>
         I am Thierno junior web developer. Delighted to meet you. I create
         professional websites and application. I like to develop my ideas, work
@@ -13,6 +15,7 @@ const About = () => {
         naturally curious, and perpetually working to improve my chops one
         design issue at a time.
       </p>
+      </div>
     </div>
     </div>
   );

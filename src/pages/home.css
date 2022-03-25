@@ -1,7 +1,7 @@
 .home_flex {
   display: grid;
   grid-template-columns: 1fr 400px;
-  gap: 15px;
+  gap: 10px;
   justify-content: center;
   grid-auto-flow: dense;
   min-height: 70vh;

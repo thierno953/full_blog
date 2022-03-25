@@ -13,7 +13,7 @@ const initialState = {
   imageUrl: "",
 };
 
-const options = ["HTML-CSS", "JavaScript", "SQL-Databases", "Web-Development", "WordPress", "Computer-Science"];
+const options = ["STYLE", "EFFECTIVE", "ENERGY", "PROBLEMS", "STOP"];
 
 /*eslint-disable*/
 
@@ -151,7 +151,7 @@ const AddEditBlog = () => {
                 <div className="categoryErrorMsg">{descriptionErrMsg}</div>
               )}
               <br />
-              {!editMode && (
+           
                 <div id="createProductFormFile">
                   <input
                     type="file"
@@ -162,7 +162,7 @@ const AddEditBlog = () => {
                     onChange={(e) => onUploadImage(e.target.files[0])}
                   />
                 </div>
-              )}
+            
               <br />
               <select
                 className="categoryDropdown"

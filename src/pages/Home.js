@@ -18,7 +18,7 @@ const Home = () => {
   const [totalBlog, setTotalBlog] = useState(null);
   const [pageLimit] = useState(5);
 
-  const options = ["HTML-CSS", "JavaScript", "SQL-Databases", "Web-Development", "WordPress", "Computer-Science"];
+  const options = ["STYLE", "EFFECTIVE", "ENERGY", "PROBLEMS", "STOP"];
 
   useEffect(() => {
     loadBlogsData(0, 5, 0);
@@ -58,8 +58,8 @@ const Home = () => {
   };
 
   const excerpt = (str) => {
-    if (str.length > 50) {
-      str = str.substring(0, 50) + "...";
+    if (str.length > 100) {
+      str = str.substring(0, 100) + "...";
     }
     return str;
   };
